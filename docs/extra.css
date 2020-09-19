@@ -1,0 +1,13 @@
+@media only screen and (min-width: 768px){
+	td:nth-child(1){
+		white-space: nowrap;
+	}
+}
+
+.hidden {
+	display: none;
+}
+
+.kops_feature_table .md-typeset__table table{
+	max-width: fit-content;
+}
